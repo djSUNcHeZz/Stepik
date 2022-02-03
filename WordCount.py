@@ -16,4 +16,4 @@ for i in set(s):
 
 # короткое решение через Set
 s = input().lower().split()
-print(*['%s %s' %(x, s.count(x)) for x in set(s)], sep='\n')
+print(*['%s %s' % (x, s.count(x)) for x in set(s)], sep='\n')
