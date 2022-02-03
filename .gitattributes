@@ -1,0 +1,5 @@
+# Разный конец строки в ОС
+# Unix \n
+# Windows \r\n
+
+* text=auto
